@@ -15,37 +15,37 @@ Hi, my name is Sahej, and I’m currently studying Systems Design Engineering at
  <tr>
  <td align="center" width="96">
  <a href="hashtag#macropower-tech">
- <img src="" width="48" height="48" alt="Python" />
+ <img src="https://github.com/Sodhi-S/Sodhi-S/blob/main/readme_icons/pythoned.png" width="48" height="48" alt="Python" />
  </a>
  <br>Python
  </td>
  <td align="center" width="96">
  <a href="hashtag#macropower-tech">
- <img src="./img/mongo-svgrepo-com.svg" width="48" height="48" alt="Pandas" />
+ <img src="https://github.com/Sodhi-S/Sodhi-S/blob/main/readme_icons/download%20(3).png" width="48" height="48" alt="Pandas" />
  </a>
  <br>Pandas
  </td>
  <td align="center" width="96">
  <a href="hashtag#macropower-tech">
- <img src="./img/typescript-official-svgrepo-com.svg" width="48" height="48" alt="Numpy" />
+ <img src="https://github.com/Sodhi-S/Sodhi-S/blob/main/readme_icons/numpy-tutorial.svg" width="48" height="48" alt="Numpy" />
  </a>
  <br>Numpy
  </td>
- <td align="center" width="96">
+ <td align="center" width="96" >
  <a href="hashtag#macropower-tech">
- <img src="./img/nodejs-icon-svgrepo-com.svg" width="48" height="48" alt="TensorFlow" />
+ <img src="https://github.com/Sodhi-S/Sodhi-S/blob/main/readme_icons/tensorflow-icon-1911x2048-1m2s54vn.png" width="48" height="48" alt="TensorFlow" />
  </a>
  <br>TensorFlow
  </td>
  <td align="center" width="96">
  <a href="hashtag#macropower-tech" >
- <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Javascript" />
+ <img src="https://github.com/Sodhi-S/Sodhi-S/blob/main/readme_icons/sql.png"Javascript" />
  </a>
- <br>JavaScript
+ <br>SQL
  </td>
  <td align="center" width="96"> 
  <a href="hashtag#macropower-tech" >
- <img src="./img/docker-svgrepo-com.svg" width="48" height="48" alt="TypeScript" />
+ <img src="https://github.com/Sodhi-S/Sodhi-S/blob/main/readme_icons/Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
  </a>
  <br>TypeScript
  </td>
@@ -57,7 +57,7 @@ Hi, my name is Sahej, and I’m currently studying Systems Design Engineering at
  </td>
  <td align="center" width="96">
  <a href="hashtag#macropower-tech" >
- <img src="./img/ng-tailwind-svgrepo-com.svg" width="48" height="48" alt="Mongo" />
+ <img src="https://github.com/Sodhi-S/Sodhi-S/blob/main/readme_icons/mongopt2.webp" width="48" height="48" alt="Mongo" />
  </a>
  <br>Mongo
  </td>
@@ -76,7 +76,7 @@ Hi, my name is Sahej, and I’m currently studying Systems Design Engineering at
  <img alt="Sahej's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>
 <a href="mailto:sssodhi@uwaterloo.ca">
- <img alt="Sahej's Email" width="50px" src="./img/gmail1-removebg-preview.png" />
+ <img alt="Sahej's Email" width="50px" src="https://github.com/AbeerDas/AbeerDas/blob/main/img/gmail1-removebg-preview.png" />
 </a>
 <a href="https://open.spotify.com/user/ilikepieboi?trackId=749SJvmRHD43wFUnBtUJ36">
  <img alt="Sahej's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
@@ -88,8 +88,5 @@ Hi, my name is Sahej, and I’m currently studying Systems Design Engineering at
 
 <br clear="both">
 
-<!---
-<img src="https://raw.githubusercontent.com/eric-mxrtin/eric-mxrtin/output/snake.svg" alt="Snake animation" />
--->
 
 ###
